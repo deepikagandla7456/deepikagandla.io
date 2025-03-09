@@ -1,0 +1,32 @@
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #4a90e2;
+  color: white;
+  padding: 20px;
+}
+
+header nav a {
+  color: white;
+  margin: 0 10px;
+}
+
+#hero {
+  text-align: center;
+  padding: 50px;
+}
+
+section {
+  padding: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+}
